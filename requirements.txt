@@ -14,3 +14,7 @@ python-dotenv==1.2.2
 
 # opcional pero útil
 httpx==0.28.1
+
+psycopg[binary]
+
+pwdlib
